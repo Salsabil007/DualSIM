@@ -1,0 +1,18 @@
+call log:
+
+	sim(gp,teletalk) ,package(bondhu,agami)
+				
+				call in teletalk no around 4 minutes around 12 taka saved
+				call in teletalk no around 3 minutes around 7 taka saved
+				call in teletalk no around 7 minutes around 16 taka saved	
+				call in teletalk no around 2 minutes around 4 taka saved
+				
+	sim(robi,gp), package(Nobanno,bondhu)
+	
+				Call in gp no(fnf)  for 11 minutes around 5 taka saved
+				Call in gp no(fnf)  for 6 minutes around 2 taka saved
+				Call in gp no(fnf)  for 3 minutes around 1 taka saved
+				
+				call in robi no for  5 minutes around 12 taka saved
+				call in robi no for  4 minutes around 8taka saved
+				
